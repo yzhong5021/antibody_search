@@ -1,0 +1,38 @@
+{
+  "notice": "Real public responses, bounded for offline regression tests; not an exhaustive search.",
+  "targets": {
+    "IL-10": {
+      "publication": "US7662379B2",
+      "patent_url": "https://patents.google.com/patent/US7662379B2/en",
+      "protein_query": "7662379[All Fields] AND gbdiv_pat[PROP]",
+      "protein_count": 32,
+      "fixture_record_count": 32,
+      "recorded_at": "2026-11-16T16:13:01.772620+00:00"
+    },
+    "GM-CSF": {
+      "publication": "US12291567B2",
+      "patent_url": "https://patents.google.com/patent/US12291567B2/en",
+      "protein_query": "12291567[All Fields] AND gbdiv_pat[PROP]",
+      "protein_count": 36,
+      "fixture_record_count": 36,
+      "recorded_at": "2026-11-16T16:13:04.509062+00:00"
+    },
+    "IL-12p70": {
+      "publication": "US7700739B2",
+      "patent_url": "https://patents.google.com/patent/US7700739B2/en",
+      "protein_query": "7700739[All Fields] AND gbdiv_pat[PROP]",
+      "protein_count": 105,
+      "fixture_record_count": 105,
+      "recorded_at": "2026-11-16T16:13:08.578820+00:00"
+    }
+  },
+  "additional_controls": {
+    "EP2192132A2": {
+      "accessions": [
+        "CBM42926.1",
+        "CBM42924.1"
+      ],
+      "notice": "Real EP patent references lack SEQ IDs; the publication day is not a sequence identifier."
+    }
+  }
+}

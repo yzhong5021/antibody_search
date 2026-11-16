@@ -1,0 +1,77 @@
+{
+  "IL-10": {
+    "notice": "Manually selected, mocked review response. Never a live confirmation.",
+    "vh_seq_id": "9",
+    "vl_seq_id": "4",
+    "evidence": [
+      {
+        "publication": "US7662379B2",
+        "section": "claims",
+        "locator": "claims-1",
+        "quote": "1. A humanized recombinant antibody or an antigen binding fragment thereof, both of which bind to IL-10, comprising: a) at least one antibody light chain variable region, wherein said light chain variable region is SEQ ID NO: 4; and b) at least one antibody heavy chain variable region, wherein said heavy chain variable region is SEQ ID NO: 9."
+      },
+      {
+        "publication": "US7662379B2",
+        "section": "description",
+        "locator": "p-0132",
+        "quote": "The humanization of the rat anti-human IL-10 antibody, 12G8, was performed as described in Section C supra. FIG. 1 shows the assignment of the assignment of residue numbers and corresponding numerical scores for residue positions that are identical to the germline sequences being examined. Calculations are shown for the 12G8 variable regions of the"
+      }
+    ]
+  },
+  "GM-CSF": {
+    "notice": "Manually selected, mocked review response. Never a live confirmation.",
+    "vh_seq_id": "1",
+    "vl_seq_id": "2",
+    "evidence": [
+      {
+        "publication": "US12291567B2",
+        "section": "claims",
+        "locator": "CLM-00002",
+        "quote": "2. The isolated antibody of claim 1 , wherein the antibody comprises a V H comprising the amino acid sequence of SEQ ID NO: 1, 3, or 4, and/or a V L comprising the amino acid sequence of SEQ ID NO: 2."
+      },
+      {
+        "publication": "US12291567B2",
+        "section": "description",
+        "locator": "p-0008",
+        "quote": "The present disclosure, at least in part, is based on the development of anti-GM-CSF antibodies, e.g., 1D2 and its variants, which showed high binding affinity and specificity to human GM-CSF, and potent activities in inhibiting GM-CSF induced cell proliferation and cytokine production (e.g., IL8, and CCL17)."
+      },
+      {
+        "publication": "US12291567B2",
+        "section": "description",
+        "locator": "p-0175",
+        "quote": "TABLE\u20033 Variable\u2003region\u2003and\u2003the\u2003complementarity- determining\u2003regions\u2003of\u20031D2. (I:\u2003IMGT\u2003system;\u2003K:\u2003Kabat\u2003system) variable\u2003heavy\u2003(V H )\u2003chain QVQLVQSGAEVKKPGASVKVSCEASGYTFTDKYLHWVRQAPGQGLE WMAWINPKSGGTFYAQNFKGRVTVTRDTSINTAYLELTSLRLDDT STYYCARGRDYYDQGAADLWGQGTMVTVSS\u2003(SEQ\u2003ID\u2003NO:\u20031) V H CDR1 V H CDR2 V H CDR3 I:\u2003GYTFTDKY I:\u2003INPKSGGT I:\u2003ARGRDYYDQGAADL (SEQ\u2003ID\u2003NO:\u20035) (SEQ\u2003ID\u2003NO:\u20036) (SEQ\u2003ID\u2003NO:\u20037) K:\u2003DKYLH K:\u2003WINPKSGGTFYAQNFKG K:\u2003GRDYYDQGAADL (SEQ\u2003ID\u2003NO:\u200316) (SEQ\u2003ID\u2003NO:\u200317) (SEQ\u2003ID\u2003NO:\u200318) variable\u2003light\u2003(V L )\u2003chain DIQLTQSPSSLSASVGDRVTITCRASQGINSVLAWYQQKPGKAPKL LLYAASKLESGVPSRFSGSGSGTDYTLTISSLQPEDFGTYYCQQYY SPVRTFGQGTKVEIKR\u2003(SEQ\u2003ID\u2003NO:\u20032) V L CDR1 V L CDR2 V L CDR3 I:\u2003QGINSV I:\u2003AAS I:\u2003QQYYSPVRT (SEQ\u2003ID\u2003NO:\u20038) (SEQ\u2003ID\u2003NO:\u20039) (SEQ\u2003ID\u2003NO:\u200310) K:\u2003RASQGINSVLA K:\u2003AASKLES K:\u2003QQYYSPVRT (SEQ\u2003ID\u2003NO:\u200319) (SEQ\u2003ID\u2003NO:\u200320) (SEQ\u2003ID\u2003NO:\u200310)"
+      }
+    ]
+  },
+  "IL-12p70": {
+    "notice": "Manually selected, mocked review response. Never a live confirmation.",
+    "vh_seq_id": "35",
+    "vl_seq_id": "36",
+    "evidence": [
+      {
+        "publication": "US7700739B2",
+        "section": "claims",
+        "locator": "CLM-00004",
+        "quote": "4. The binding protein according to claim 3 , wherein said VH set of 3 CDRs and VL set of 3 CDRs are selected from a group consisting of: VH 1D4 CDR Set & VL 1D4 CDR Set; VH 1A6 CDR Set & VL 1A6 CDR Set; VH 1D8 CDR Set & VL 1D8 CDR Set; VH 3G7 CDR Set & VL 3G7 CDR Set; VH 5E8 CDR Set & VL 5E8 CDR Set; VH 8E1 CDR Set & VL 8E1 CDR Set; VH 1H6 CDR Set"
+      },
+      {
+        "publication": "US7700739B2",
+        "section": "description",
+        "locator": "p-0235",
+        "quote": "TABLE 9 Neutralization of IL-12 by anti IL-12p40 Murine Monoclonal Antibodies Murine Monoclonal Average IC 50 (uM) Average IC 50 (uM) Antibody Human IL-12 Cyno IL-12 1D4 0.031 0.078 1A6 0.052 0.044 1D8 0.31 1.4 3G7 0.15 0.35 5E8 12 N/D 8E1 0.19 0.18 1H6 0.69 1.6 3A11 3.4 N/D 4B4 0.039 0.028 7G3 0.047 >20"
+      },
+      {
+        "publication": "US7700739B2",
+        "section": "description",
+        "locator": "p-0237",
+        "quote": "TABLE 10 Affinity of anti IL-12p40 Murine Monoclonal Antibodies for IL-12 p70 Name k on (1/M \u00b7 s) k off (1/s) K D (nM) 1D4 2.5 \u00d7 10 5 2.9 \u00d7 10 \u22125 0.12 1A6 1.5 \u00d7 10 5 3.5 \u00d7 10 \u22125 0.23 1D8 5.1 \u00d7 10 5 2.3 \u00d7 10 \u22125 0.044 3G7 8.2 \u00d7 10 5 3.8 \u00d7 10 \u22125 0.047 5E8 5.7 \u00d7 10 5 2.3 \u00d7 10 \u22123 4 8E1 6.9 \u00d7 10 5 5.1 \u00d7 10 \u22125 0.074 1H6 4.3 \u00d7 10 5 9.9 \u00d7 10 \u22125 0.25 3A11 1."
+      },
+      {
+        "publication": "US7700739B2",
+        "section": "description",
+        "locator": "p-0128",
+        "quote": "TABLE 5 List of Amino Acid Sequences of VH and VL regions SEQ ID Sequence No. Protein region 123456789012345678901234567890 35 VH 1D4 QVTLKESGPGILQPSQTLSLTCSFSGFSLR KSVMGVSWIRQPSGKGLEWLAHIYWDDDKY YNPSLKSRLTISKDPSRNQVFLKITSVDTA DAATYYCTRRGIRSAMDYWGQGTSVTVSS VH 1D4 CDR- Residues 31-37 KSVMGVS H1 of SEQ ID NO.:35 VH 1D4 CDR- Residues 52-67 HIYWDDDKYYNPSLKS H2 of SEQ ID NO.:35 VH 1D4 CDR- Residues 100- RGIRSAMDY H3 108 of SEQ ID NO.:35 36 VL 1D4 SVVMTQTPKFLLVSAGDRVTITCKASQSVS NDVAWYQQKPGQSPKLLIYYASNRYTGVPD RFTGSGYGTDFTFIISTVRAEDLAVYFCQQ DYNSPWTFGGGTKLEIKR VL 1D4 CDR- Residues24-34 KASQSVSNDVA L1 of SEQ ID NO.:36 VL 1D4 CDR- Residues50-56 YASNRYT L2 of SEQ ID NO.:36 VL 1D4 CDR- Residues89-97 QQDYNSPWT L3 of SEQ ID NO.:36 37 VH 1A6 QVTLKESGPGILKPSQTLSLTCSFSGFSLS TSGMGVSWIRQPSGKGLEWLAHIWWDGDNY YNPSLKSQLTISKDTSRNQVFLRIATVDTA DTATYYCARRTRVNYAMDYWG"
+      }
+    ]
+  }
+}

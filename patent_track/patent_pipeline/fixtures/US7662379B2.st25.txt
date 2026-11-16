@@ -1,0 +1,20 @@
+<110> Zymo format regression fixture
+<120> Synthetic ST.25 encoding of NCBI ADF08698.1; not an original patent listing
+<210> 9
+<211> 119
+<212> PRT
+<213> Artificial Sequence
+<400> 9
+Gln Val Gln Leu Val Glu Ser Gly Gly Gly Val Val Gln Pro Gly Arg
+Ser Leu Arg Leu Ser Cys Ala Ala Ser Gly Phe Thr Phe Ser Asp Tyr
+His Met Ala Trp Val Arg Gln Ala Pro Gly Lys Gly Leu Glu Trp Val
+Ala Ser Ile Thr Leu Asp Ala Thr Tyr Thr Tyr Tyr Arg Asp Ser Val
+Arg Gly Arg Phe Thr Ile Ser Arg Asp Asn Ser Lys Asn Thr Leu Tyr
+Leu Gln Met Asn Ser Leu Arg Ala Glu Asp Thr Ala Val Tyr Tyr Cys
+Ala Arg His Arg Gly Phe Ser Val Trp Leu Asp Tyr Trp Gly Gln Gly
+Thr Leu Val Thr Val Ser Ser
+<210> 9000
+<211> 6
+<212> DNA
+<400> 9000
+atgcgt

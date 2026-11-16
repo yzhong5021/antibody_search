@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zymo-patent-pipeline"
+version = "0.1.0"
+description = "Small, evidence-preserving patent antibody retrieval pipeline"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["requests>=2.31,<3", "beautifulsoup4>=4.12,<5", "biopython>=1.81,<2", "defusedxml>=0.7,<1"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<10"]
+
+[project.scripts]
+patent-pipeline = "patent_pipeline.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["patent_pipeline*"]
+
+[tool.setuptools.package-data]
+patent_pipeline = ["fixtures/**/*", "fixtures/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

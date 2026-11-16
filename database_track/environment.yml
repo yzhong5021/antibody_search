@@ -1,0 +1,13 @@
+name: zymo-database-fetching
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - anarci=2024.05.21
+  - hmmer=3.4
+  - biopython=1.85
+  - requests>=2.32,<3
+  - beautifulsoup4>=4.12,<5
+  - pytest>=8,<10
+  - pip

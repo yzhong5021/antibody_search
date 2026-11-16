@@ -1,0 +1,6 @@
+{
+  "name": "CSF2",
+  "accessions": ["P04141"],
+  "aliases": ["CSF2", "GM-CSF", "GMCSF", "Granulocyte-macrophage colony-stimulating factor"],
+  "near_positive_terms": ["CSF2RA", "CSF2RB", "GM-CSF receptor", "GMCSFR", "G-CSF", "CSF3", "M-CSF", "CSF1"]
+}

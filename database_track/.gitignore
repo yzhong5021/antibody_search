@@ -1,0 +1,6 @@
+.conda/
+.cache/
+__pycache__/
+.pytest_cache/
+runs/
+*.egg-info/

@@ -1,0 +1,2 @@
+deltalake>=1,<2
+pyarrow>=19,<24

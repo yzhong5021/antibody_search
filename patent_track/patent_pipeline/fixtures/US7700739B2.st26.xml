@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!-- Synthetic format fixture re-encoding NCBI ADL84030.1; not an original listing -->
+<ST26SequenceListing><SequenceData sequenceIDNumber="35"><INSDSeq><INSDSeq_length>119</INSDSeq_length><INSDSeq_moltype>AA</INSDSeq_moltype><INSDSeq_sequence>qvtlkesgpgilqpsqtlsltcsfsgfslrksvmgvswirqpsgkglewlahiywdddkyynpslksrltiskdpsrnqvflkitsvdtadaatyyctrrgirsamdywgqgtsvtvss</INSDSeq_sequence></INSDSeq></SequenceData><SequenceData sequenceIDNumber="9000"><INSDSeq><INSDSeq_length>6</INSDSeq_length><INSDSeq_moltype>DNA</INSDSeq_moltype><INSDSeq_sequence>atgcgt</INSDSeq_sequence></INSDSeq></SequenceData></ST26SequenceListing>

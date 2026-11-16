@@ -1,0 +1,15 @@
+**/.conda/
+**/.venv/
+**/.cache/
+**/.pytest_cache/
+**/__pycache__/
+**/.mypy_cache/
+**/.ruff_cache/
+**/runs/
+**/*.egg-info/
+*.pyc
+*.pyo
+.DS_Store
+.env
+.env.*
+!.env.example

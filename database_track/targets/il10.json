@@ -1,0 +1,6 @@
+{
+  "name": "IL10",
+  "accessions": ["P22301"],
+  "aliases": ["IL10", "IL-10", "Interleukin-10", "CSIF"],
+  "near_positive_terms": ["IL10R", "IL-10 receptor", "IL10RA", "IL10RB"]
+}

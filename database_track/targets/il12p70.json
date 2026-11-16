@@ -1,0 +1,6 @@
+{
+  "name": "IL12p70",
+  "accessions": ["P29459", "P29460"],
+  "aliases": ["IL12", "IL-12", "Interleukin-12", "IL12p70", "IL-12 p70", "IL12A", "IL-12A", "IL-12 p35", "p35", "IL12B", "IL-12B", "IL-12 p40", "p40", "CLMFp40"],
+  "near_positive_terms": ["IL12R", "IL12RB1", "IL12RB2", "IL23", "IL-23", "IL23A", "IL35", "IL-35", "EBI3"]
+}
